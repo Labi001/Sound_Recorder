@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="versionNumber">Verzion %s</string>
+    <string name="copyRightMessage">Të drejtat e autorit © %1$d by Labinot Bajrami</string>
+    <string name="tap_the_button_to_start_recording">Shtyp butonin të filloj inçizimi</string>
+    <string name="no_records_are_saved">Nuk ka asnjë inçizim të ruajtur</string>
+    <string name="denied_permission">Ti ndalove të drejtat e përdorimit</string>
+    <string name="tap_the_button">Shtyp butonin të filloj inçizimi</string>
+    <string name="pause">Pusho</string>
+    <string name="stop">Ndalo</string>
+    <string name="toast_file_exists">Ky skedar %1$s tashmë ekziston.Ju lutem zgjidhni një emër skedari tjetër</string>
+    <string name="delete_file">Fshij Skedarin</string>
+    <string name="confirm_delete">Konfirmo Fshirjen</string>
+    <string name="delete_message">A jeni të sigurt se doni te fshini këtë skedar?</string>
+    <string name="share">Shpërndaj Skedarin</string>
+    <string name="rename">Riemëro Skedarin</string>
+    <string name="delete">Fshije Skedarin</string>
+    <string name="options">Opsionet:</string>
+    <string name="send_to">"Dërgo te: "</string>
+    <string name="ok">Në rregull</string>
+    <string name="cancel">Anulo</string>
+    <string name="yes">Po</string>
+    <string name="no">Jo</string>
+    <string name="settings">Cilësimet</string>
+    <string name="selected">Selkto &amp; Fshij</string>
+    <string name="delete_all">Fshijë të Gjitha</string>
+    <string name="please_wait">Ju lutem prisni</string>
+    <string name="deleting_all">Derisa ne fshijmë të gjithë rekordet !</string>
+    <string name="notification_recording">Duke Inçizuar...</string>
+    <string name="pref_high_quality_desc">Inçizo në HQ</string>
+    <string name="pref_high_quality_title">Aktivizo HQ Inçizim</string>
+    <string name="pref_about_title">Rreth Nesh</string>
+    <string name="select">Zgjodhët: %1$d</string>
+    <string name="sub_on_youtube">Abonohuni në Youtube</string>
+    <string name="instagram_message">Na bëni Follow në Instagram</string>
+    <string name="facebook_message">Na pëlqeni në Fb</string>
+    <string name="website">Hidh një sy rreth sajdit tonë</string>
+    <string name="email_dev">Kontakto Zhvilluesin</string>
+    <string name="not_installed">Aplikacioni që kërkuat nuk u gjet</string>
+    <string name="join_the_academy">Faleminderit që u bashkuat në akademin tonë.</string>
+    <string name="latest_version">Ju keni të instaluar verzionin e fundit!</string>
+    <string name="about">Rreth Nesh</string>
+    <string name="recording">Duke Inçizuar</string>
+</resources>
